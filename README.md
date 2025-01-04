@@ -112,15 +112,7 @@ Minimum specifications for different model variants:
   - GPU Memory: 14GB
   - Disk Space: 15GB
 
-## Documentation
 
-Comprehensive documentation is available in the `docs/` directory:
-
-- [Installation Guide](docs/installation.md)
-- [API Reference](docs/api.md)
-- [Fine-tuning Guide](docs/fine-tuning.md)
-- [Best Practices](docs/best-practices.md)
-- [Troubleshooting](docs/troubleshooting.md)
 
 ## Examples
 
