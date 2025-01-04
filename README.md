@@ -41,7 +41,7 @@ pip install torch transformers>=4.40.0
 
 ### Download and Usage
 
-The SPEC-MATH-7B model is available on Hugging Face. You can download it directly from [huggingface.co/spec-math-instruct-7b](https://huggingface.co/spec-math-instruct-7b).
+The SPEC-MATH-7B model is available on Hugging Face. You can download it directly from [huggingface.co/SVECTOR-CORPORATION/SPEC-MATH-instruct-7B](https://huggingface.co/SVECTOR-CORPORATION/SPEC-MATH-instruct-7B).
 
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
