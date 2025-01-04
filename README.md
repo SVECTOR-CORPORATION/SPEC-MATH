@@ -175,8 +175,8 @@ If you use SPEC-MATH in your research, please cite:
 
 ## Community and Support
 
-- [GitHub Issues](https://github.com/SVECTOR/SPEC-MATH/issues): Bug reports and feature requests
-- [Discussions](https://github.com/SVECTOR/SPEC-MATH/discussions): Community discussions and questions
+- [GitHub Issues](https://github.com/SVECTOR-CORPORATION/SPEC-MATH/issues): Bug reports and feature requests
+- [Discussions](https://github.com/SVECTOR-CORPORATION/SPEC-MATH/discussions): Community discussions and questions
 - [Twitter](https://twitter.com/SVECTOR_30): Latest updates and announcements
 
 ## Acknowledgments
