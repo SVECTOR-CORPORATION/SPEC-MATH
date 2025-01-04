@@ -6,7 +6,7 @@
 
 [![License: CC BY-NC 2.0](https://img.shields.io/badge/License-CC%20BY--NC%202.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/2.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-SPEC--MATH-yellow)](https://huggingface.co/SPEC-MATH-instruct-7B)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-SPEC--MATH-yellow)](https://huggingface.co/SVECTOR-CORPORATION/SPEC-MATH-instruct-7B)
 
 </div>
 
