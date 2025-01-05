@@ -73,7 +73,7 @@ SPEC-MATH models have demonstrated exceptional performance across various mathem
 
 ### Standard Benchmarks
 
-| Benchmark | SPEC-MATH-7B | SPEC-MATH-72B | GPT-3.5 | Claude 2 |
+| Benchmark | SPEC-MATH-7B | SPEC-MATH-80B | GPT-3.5 | Claude 2 |
 |-----------|--------------|---------------|----------|-----------|
 | GSM8K | 76.4% | 84.2% | 57.1% | 78.7% |
 | MATH | 45.2% | 52.8% | 34.9% | 43.4% |
