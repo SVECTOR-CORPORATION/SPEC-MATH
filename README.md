@@ -61,12 +61,9 @@ problem = "Solve the equation: 2x + 5 = 13"
 solution = solve_math_problem(problem)
 print(solution)
 ```
-
-<img width="350" alt="Screenshot 2025-01-04 at 7 29 17 PM" src="https://github.com/user-attachments/assets/c2f03816-78e9-4c06-962b-82a8d9ab0797" />
-<img width="350" alt="Screenshot 2025-01-04 at 7 29 38 PM" src="https://github.com/user-attachments/assets/ee778a3c-9f51-4f38-83dd-91d67f3668f7" />
-<img width="350" alt="Screenshot 2025-01-04 at 7 29 50 PM" src="https://github.com/user-attachments/assets/f772c000-033e-477f-9c00-97f4f19ceab9" /><br>
-
-
+<img width="350" alt="Screenshot 2025-01-05 at 11 51 23 PM" src="https://github.com/user-attachments/assets/c15ff8fc-c848-4646-a982-20049d3fb598" />
+<img width="350" alt="Screenshot 2025-01-05 at 11 51 44 PM" src="https://github.com/user-attachments/assets/fa4774af-01df-4069-95c6-9d8892d0e86c" />
+<img width="350" alt="Screenshot 2025-01-05 at 11 51 59 PM" src="https://github.com/user-attachments/assets/3c1ef89c-5231-49b5-ab4b-7d71617de5a5" /> <br>
 ## Performance Benchmarks
 
 SPEC-MATH models have demonstrated exceptional performance across various mathematical reasoning benchmarks, consistently outperforming existing state-of-the-art models. Our comprehensive evaluation spans standard benchmarks, research mathematics, and competition mathematics.
